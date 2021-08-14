@@ -1,1 +1,28 @@
-# react-ramen
+# Ramen Shop
+This website, The Ramen Shop, would show general information about when the shop opens and where it is located. This is also a refactored version of my original version where it uses just html and bootstrap. After learning react, I wanted to showcase my skills and redesign some of the elements
+    
+## Tech Usage
+
+**Client:** React.Js, React Bootstrap
+
+
+## Badges
+
+Add badges from somewhere like: 
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+  
+## Deployment
+
+Link to Website: https://niaskaa.github.io/Ramen-Shop/
+
+
+## Authors
+
+- [@NIASKA / Alan](https://github.com/NIASKAA)
+
+  
+## Feedback
+
+If you have any feedback, please reach out to us at mkman751@yahoo.com
