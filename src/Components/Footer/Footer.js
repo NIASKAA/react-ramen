@@ -2,9 +2,15 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <div>
-            
-        </div>
+        <>
+          <footer class="page-footer text-center">
+            <div class="disclaimer">
+              <p class="text-muted">
+                @ All Rights Reserved. This website is just for demonstration purposes. Does not exist. 
+              </p>
+            </div>
+          </footer>  
+        </>
     )
 }
 
