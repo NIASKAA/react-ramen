@@ -5,7 +5,7 @@ const AboutUs = () => {
     return (
         <>
             <Container className="aboutContainer">
-                <img src="/images/about.jpg" id="aboutRamen"/>
+                <img src="/images/about.jpg" alt="background" className="bgMain" id="aboutRamen"/>
                 <div class="col-md-4">
                     <h4><strong>The Ramen Tale</strong></h4>
                     <p class="text-muted">

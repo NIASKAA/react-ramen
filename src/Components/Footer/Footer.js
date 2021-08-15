@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <>
           <footer class="page-footer text-center">
-            <div class="disclaimer">
+            <div className="disclaimer">
               <p class="text-muted">
                 @ All Rights Reserved. This website is just for demonstration purposes. Does not exist. 
               </p>

@@ -1,0 +1,17 @@
+#aboutContainer{
+    padding: 6px;
+}
+
+#aboutRamen {
+    width: 40%;
+    height: 40%;
+    float: right;
+    border-radius: 12px;
+    padding: 6px;
+}
+
+@media only screen and (max-device-width: 1366px) {
+    .bgMain {
+      background-attachment: scroll;
+    }
+  }
