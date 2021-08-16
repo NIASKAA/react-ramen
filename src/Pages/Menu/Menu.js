@@ -11,7 +11,7 @@ const Menu = () => {
     }
     return (
         <>
-            <Container class="display">
+            <Container className="display">
                 <Row class="row">
                     <h2 class="title text-center">Appetizer</h2>
                     <Col class="col">
@@ -144,8 +144,6 @@ const Menu = () => {
                     </Card>
                     </Col>
                 </Row>
-
-                <hr style={{margin: "20px"}}/>
             </Container>
         </>
     )

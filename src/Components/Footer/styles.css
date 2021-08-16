@@ -1,5 +1,5 @@
 .disclaimer{
-    padding: 10px;
-    color: white;
-    font-weight: lighter;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
 }
