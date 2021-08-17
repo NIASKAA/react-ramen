@@ -48,6 +48,7 @@ const Location = () => {
                 <Row>
                     <Col>
                         <h4>Location</h4>
+                        <img src="./images/location.png" alt="location"  className="locationStyle"/>
                     </Col>
                     <Col>
                         <h4 className="contactText">Contact</h4>
