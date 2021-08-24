@@ -1,6 +1,10 @@
 # Ramen Shop
 This website, The Ramen Shop, would show general information about when the shop opens and where it is located. This is also a refactored version of my original version where it uses just html and bootstrap. After learning react, I wanted to showcase my skills and redesign some of the elements
-    
+
+![Demo1](https://res.cloudinary.com/ddtqwizaf/image/upload/v1629836975/rs2_govazj.png)
+![Demo2](https://res.cloudinary.com/ddtqwizaf/image/upload/v1629836840/rs2-2_ffjazf.png)
+
+
 ## Tech Usage
 
 **Client:** React.Js, React Bootstrap
