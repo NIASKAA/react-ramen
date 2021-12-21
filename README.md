@@ -19,7 +19,7 @@ Add badges from somewhere like:
   
 ## Deployment
 
-Link to Website: https://niaskaa.github.io/Ramen-Shop/
+Link to Website: https://ramenreact.herokuapp.com/
 
 
 ## Installation
